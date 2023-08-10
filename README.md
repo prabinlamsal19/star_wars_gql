@@ -1,4 +1,4 @@
-# demo_app
+# star_wars_graphql
 
 Flutter project implementing GraphQL api including refetching and pagination. 
 package used : ferrygrahpql
