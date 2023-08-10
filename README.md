@@ -1,6 +1,7 @@
 # demo_app
 
-A new Flutter project.
+Flutter project implementing GraphQL api including refetching and pagination. 
+package used : ferrygrahpql
 
 ## Getting Started
 
